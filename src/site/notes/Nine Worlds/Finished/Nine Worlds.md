@@ -49,7 +49,7 @@ Songs
 
 ## Longer Works
 
-[[Nine Worlds/Finished/A Teacher in the Desert/A Teacher in the Desert\|A Teacher in the Desert]]
+[[Nine Worlds/Finished/A Teacher in the Desert/0 - A Teacher in the Desert\|0 - A Teacher in the Desert]]
 8k
 Aioru, Kip
 

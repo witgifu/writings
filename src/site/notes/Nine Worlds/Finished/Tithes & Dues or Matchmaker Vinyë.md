@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/nine-worlds/finished/tithes-and-dues-or-matchmaker-vinye/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/nine-worlds/finished/tithes-and-dues-or-matchmaker-vinye/","tags":["sillyness","fluff","small-pranks","family-being-annoying","kip-is-oblivious","Kip","Kip/HR","Vinyë","Gaudy","Conju","Rhodin","Ludvic","Dora","Eidora","Zemius","Quintus"],"dg-note-properties":{"tags":["sillyness","fluff","small-pranks","family-being-annoying","kip-is-oblivious","Kip","Kip/HR","Vinyë","Gaudy","Conju","Rhodin","Ludvic","Dora","Eidora","Zemius","Quintus"],"warnings":"No archive warnings apply","rating":"T","categories":"M/M"}}
 ---
+
 
 “Will you be able to join us?” Vinyë's mother asked with careful neutrality.
 
