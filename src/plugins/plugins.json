@@ -54,7 +54,17 @@
         "src/plugins/resizable-panes/tests/browser.test.cjs",
         "src/plugins/resizable-panes/tests/fixtures/page-panel.css",
         "src/plugins/resizable-panes/tests/runtime.test.cjs"
-      ]
+      ],
+      "settings": {
+        "enabled": true,
+        "defaultLeftWidth": 320,
+        "defaultRightWidth": 300,
+        "minPaneWidth": 200,
+        "maxViewportPercent": 40,
+        "mainMinWidth": 560,
+        "paneGap": 24,
+        "persistWidths": true
+      }
     }
   }
 }
