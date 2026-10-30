@@ -36,7 +36,11 @@
         "src/plugins/recently-tended/index.js",
         "src/plugins/recently-tended/styles/list.scss",
         "src/plugins/recently-tended/templates/list.njk"
-      ]
+      ],
+      "settings": {
+        "heading": "Recently updated",
+        "count": 5
+      }
     },
     "resizable-panes": {
       "repo": "koltensaccount/garden-plugin-resizable-panes",
