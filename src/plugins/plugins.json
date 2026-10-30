@@ -65,6 +65,16 @@
         "paneGap": 24,
         "persistWidths": true
       }
+    },
+    "dg-timestamps": {
+      "settings": {
+        "showCreated": false,
+        "showUpdated": true,
+        "position": "bottom",
+        "showOnHome": true,
+        "timestampFormat": "yyyy-mm-dd",
+        "dateFormat": "yyyy-mm-dd"
+      }
     }
   }
 }
