@@ -14,7 +14,15 @@
         "src/plugins/giscus-comments/README.md",
         "src/plugins/giscus-comments/garden-plugin.json",
         "src/plugins/giscus-comments/templates/comments.njk"
-      ]
+      ],
+      "settings": {
+        "repo": "witgifu/writings",
+        "repoId": "R_kgDOVc28pw",
+        "category": "General",
+        "categoryId": "DIC_kwDOVc28p84DKCto",
+        "theme": "transparent_dark",
+        "showByDefault": true
+      }
     },
     "recently-tended": {
       "repo": "oleeskild/garden-plugin-recently-tended",
