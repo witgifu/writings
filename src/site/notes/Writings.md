@@ -10,5 +10,5 @@
 
 ## Fanfic
 
-*  [[Nine Worlds Fic/Finished/Nine Worlds\|Nine Worlds]]
+*  [[Nine Worlds/Finished/Nine Worlds\|Nine Worlds]]
 * [[Tamora Pierce/Tamora Pierce\|Tamora Pierce]]
