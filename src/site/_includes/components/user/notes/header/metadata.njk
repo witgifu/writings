@@ -1,0 +1,16 @@
+{% if noteProps %}
+<dl>
+  {% if noteProps.warnings %}
+  <dt>Warning</dt>
+  <dd>{{ noteProps.warnings }}</dd>
+  {% endif %}
+  {% if noteProps.rating %}
+  <dt>Ratin</dt>
+  <dd>{{ noteProps.rating }}</dd>
+  {% endif %}
+  {% if noteProps.categories %}
+  <dt>Categories</dt>
+  <dd>{{ noteProps.categories }}</dd>
+  {% endif %}
+</dl>
+{% endif %}
