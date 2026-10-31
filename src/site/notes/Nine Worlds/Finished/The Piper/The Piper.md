@@ -1,6 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/nine-worlds/finished/the-piper/the-piper/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/nine-worlds/finished/the-piper/the-piper/","tags":["Corporal Punishment,","The Empire is the Bad Place,","Alternate Universe - Canon Divergence,","Implied/Referenced Rape/Non-con,","Suicidal Thoughts,","Mild Blood"],"dg-note-properties":{"tags":["Corporal Punishment,","The Empire is the Bad Place,","Alternate Universe - Canon Divergence,","Implied/Referenced Rape/Non-con,","Suicidal Thoughts,","Mild Blood"],"warnings":"No archive warnings apply","rating":"M","categories":"Gen"}}
 ---
+
+
+The Navy ship sailed into Gorjo City harbour on a lovely Monday afternoon. Everyone still remembered Aurelius Magnus coming to ask Elonoa'a to show him the way to Colhélhé. So even if they had little success, nobody resented the Navy trying to recruit. It was good to be remembered as seafarers.
+
+It wasn't until dusk that rumours started flowing down from the Palace. And not in the chattering of children, or the smirks of young men. In the dark looks shared by the elders, and the whispers of servants to trusted messengers.
+
+The Navy is to collect a special tithe. For the ascension of the new Emperor, Shallyr.
 
 [[Nine Worlds/Finished/The Piper/01 - Announcement\|01 - Announcement]]
 [[Nine Worlds/Finished/The Piper/02 - Volunteers\|02 - Volunteers]]

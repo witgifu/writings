@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/nine-worlds/finished/ghosts-that-follow/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/nine-worlds/finished/ghosts-that-follow/","tags":["PTSD","talking-it-out","Jullanar-MVP","the-non-con-is-all-in-the-past-but-that-doesn-t-mean-it-s-not-traumatic","fitzroy-in-the-first-person"],"dg-note-properties":{"tags":["PTSD","talking-it-out","Jullanar-MVP","the-non-con-is-all-in-the-past-but-that-doesn-t-mean-it-s-not-traumatic","fitzroy-in-the-first-person"],"warnings":"Rape/non-con","rating":"M","categories":"M/M"}}
 ---
+
+
 
 It was a beautiful evening in Gorjo City. I had gone for a late-afternoon snorkel, and come back to the bathouse to wash off the salt. It still reminds me of that first taste of freedom on Lesuia, snorkeling, and so despite having to treat my hair every time, I will persist. Clean again, I ambled inside to find Kip.
 

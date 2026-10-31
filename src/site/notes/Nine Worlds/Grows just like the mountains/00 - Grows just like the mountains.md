@@ -3,6 +3,19 @@
 ---
 
 
+“You're—” began the young aristocrat, but Kip interrupted.
+
+“Cliopher Mdang,” said Kip, curtly, “fourth-degree secretary.” He bowed, because it had been rude to interrupt, and because the young man looked like he was probably one of the Upper Ten Thousand. The sort of person who could make his life hell if he wanted to.
+
+The man didn't take offence, but nodded. “The Cavalier Conju enazo Argellian an Vilius,” he said politely, “Companion to Lady Lasara of Eldizorka, over there.” He waved his hand vaguely at the pile of skirts.
+
+---
+
+What if Kip and Conju met pre-Fall in the Palace and became friends.
+
+---
+
+Please read the tags! The Palace of Stars pre-Fall was not a fun place.
 
 ## Contents
 

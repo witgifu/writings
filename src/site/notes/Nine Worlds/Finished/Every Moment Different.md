@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/nine-worlds/finished/every-moment-different/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/nine-worlds/finished/every-moment-different/","tags":["them-being-them","Lots-of-kissing","Attempted-Sex","Canon-Asexual-Character","post-atfos","vaha-fix-it","Asexuality-is-a-spectrum","complicated-feelings","Lots-of-cuddles"],"dg-note-properties":{"tags":["them-being-them","Lots-of-kissing","Attempted-Sex","Canon-Asexual-Character","post-atfos","vaha-fix-it","Asexuality-is-a-spectrum","complicated-feelings","Lots-of-cuddles"],"warnings":"No archive warnings apply","rating":"M","categories":"M/M"}}
 ---
+
 
 It took a while but eventually Basil just asked, when he and Kip were both in a storeroom with nobody else for a change.
 
