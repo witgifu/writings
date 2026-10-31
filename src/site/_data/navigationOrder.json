@@ -9,13 +9,13 @@
     "Child of the Sea",
     "Convict",
     "Finished",
-    "Grows jus like the mountains",
-    "October 2026",
     "Petition the Same Moon",
     "Sandbar (Touch Island)",
     "Secret Messages",
     "Statutory Declaration",
-    "The Palace of Lamps"
+    "The Palace of Lamps",
+    "Grows just like the mountains",
+    "To Be Elevated"
   ],
   "/Nine Worlds/Child of the Sea": [
     "0 - Drowning in the Sea",
@@ -39,7 +39,6 @@
     "No is the hardest word",
     "No one ever knows (asks) - Finished",
     "Precipitate",
-    "Ten Years (A Not Enough Beds Fic)",
     "The Piper",
     "Twenty-Third Sonnet",
     "Bones",
@@ -53,35 +52,38 @@
     "The Second Death of Jemis Greenwing",
     "Tithes & Dues or Matchmaker Vinyë",
     "Wherever the sea may take us",
-    "Zine Rules"
+    "Kinktober 2026",
+    "Teardrops",
+    "Tollway"
   ],
   "/Nine Worlds/Finished/A Teacher in the Desert": [
+    "0 - A Teacher in the Desert",
     "1 - Student",
     "2 - Emissary",
     "3 - Dreamer"
   ],
   "/Nine Worlds/Finished/Accident & Emergency": [
+    "0 - Accident & Emergency",
     "1",
-    "2",
-    "Accident & Emergency"
+    "2"
   ],
   "/Nine Worlds/Finished/An Obedient Daughter": [
+    "0 - An Obedient Daughter",
     "1",
     "2",
     "3",
     "4",
-    "5",
-    "An Obedient Daughter"
+    "5"
   ],
   "/Nine Worlds/Finished/Incandescent as the Sun": [
+    "0 - Incandescent as the Sun",
     "1 - Injury",
     "2 - Invitation",
     "3 - Hazards",
     "4 - Nightmares",
     "5 - Progress",
     "6 - Defence",
-    "Bits",
-    "Incandescent as the Sun"
+    "Bits"
   ],
   "/Nine Worlds/Finished/Inksnipvember 2025": [
     "1 - Cowrie, Boardwalk",
@@ -95,10 +97,10 @@
     "Masque"
   ],
   "/Nine Worlds/Finished/Magical Chastity Belt": [
+    "0 - Magical Chastity Belt",
     "1. Kip",
     "2. HR",
-    "3. HR 2",
-    "Magical Chastity Belt"
+    "3. HR 2"
   ],
   "/Nine Worlds/Finished/May 2026": [
     "Crack (Posted)",
@@ -135,7 +137,7 @@
     "4 Truth"
   ],
   "/Nine Worlds/Finished/No one ever knows (asks) - Finished": [
-    "0 Summary",
+    "0 - No one ever knows (asks)",
     "1 Unholy hours",
     "2 Morning",
     "4 Sunset",
@@ -143,11 +145,19 @@
     "6 Night",
     "7 Dawn",
     "8 Post time",
-    "9 Daylight",
-    "No one ever knows (asks)"
+    "9 Daylight"
   ],
   "/Nine Worlds/Finished/Precipitate": [
-    "1 - Cliopher",
+    "00 - Precipitate",
+    "01 - Cliopher",
+    "02 - Conju",
+    "03 - Conju",
+    "04 - Conju",
+    "05 - Oginu",
+    "06 - Cliopher",
+    "07 - Oginu",
+    "08 - Cliopher",
+    "09 - Oginu",
     "10 - Oginu",
     "11 - Aioru",
     "12 - Aioru",
@@ -158,21 +168,57 @@
     "17 - Aioru",
     "18 - Aioru",
     "19 - Aioru",
-    "2 - Conju",
     "20 - Cliopher",
-    "3 - Conju",
-    "4 - Conju",
-    "5 - Oginu",
-    "6 - Cliopher",
-    "7 - Oginu",
-    "8 - Cliopher",
-    "9 - Oginu",
-    "Notes",
-    "Precipitate"
+    "Notes"
   ],
-  "/Nine Worlds/Finished/Ten Years (A Not Enough Beds Fic)": [
-    "Darkness",
+  "/Nine Worlds/Finished/The Piper": [
+    "Scenes from the Sidelines",
+    "00 - The Piper",
+    "01 - Announcement",
+    "02 - Volunteers",
+    "03 - Selection",
+    "04 - Lady Mairel",
+    "05 - Ritual",
+    "06 - Port",
+    "07 - Shopping",
+    "08 - Hallucination",
+    "09 - Coach",
+    "10 - Astandalas the Golden",
+    "11 - Presentation",
+    "12 - Melissa",
+    "13 - Touch",
+    "14 - Regicide",
+    "15 - Marwn"
+  ],
+  "/Nine Worlds/Finished/The Piper/Scenes from the Sidelines": [
+    "01 - Vinyë"
+  ],
+  "/Nine Worlds/Finished/Twenty-Third Sonnet": [
+    "00 - Twenty-Third Sonnet",
     "1",
+    "2"
+  ],
+  "/Nine Worlds/Finished/Kinktober 2026": [
+    "01 - Bratting",
+    "02 - Orgy",
+    "03 - Burns",
+    "04 - Body Writing",
+    "05 - Imposter",
+    "07 - Aphrodisiacs",
+    "12 - Betrayal - Findom"
+  ],
+  "/Nine Worlds/Finished/Teardrops": [
+    "Darkness",
+    "00 - Teardrops on the Fire",
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
     "10",
     "11",
     "12",
@@ -183,21 +229,21 @@
     "17",
     "18",
     "19",
-    "2",
     "20",
     "21",
-    "22",
-    "3",
-    "4",
-    "5",
-    "6",
-    "7",
-    "8",
-    "9",
-    "Ten Years"
+    "22"
   ],
-  "/Nine Worlds/Finished/Ten Years (A Not Enough Beds Fic)/Darkness": [
-    "1 - 7",
+  "/Nine Worlds/Finished/Teardrops/Darkness": [
+    "00 - Take Me Back in the Darkness",
+    "01 - 7",
+    "02 - 9",
+    "03 - 11 but also 18",
+    "04 - 12 or I don't know now, numbering got weird",
+    "05 - 13 i guess",
+    "06 - 14",
+    "07 - 15",
+    "08 - 16",
+    "09 - 17",
     "10 - 18",
     "11",
     "12",
@@ -208,82 +254,7 @@
     "17",
     "18",
     "19",
-    "2 - 9",
-    "20",
-    "3 - 11 but also 18",
-    "4 - 12 or I don't know now, numbering got weird",
-    "5 - 13 i guess",
-    "6 - 14",
-    "7 - 15",
-    "8 - 16",
-    "9 - 17",
-    "Take Me Back in the Darkness"
-  ],
-  "/Nine Worlds/Finished/The Piper": [
-    "Scenes from the Sidelines",
-    "1 - Announcement",
-    "10 - Astandalas the Golden",
-    "11 - Presentation",
-    "12 - Melissa",
-    "13 - Touch",
-    "14 - Regicide",
-    "15 - Marwn",
-    "2 - Volunteers",
-    "3 - Selection",
-    "4 - Lady Mairel",
-    "5 - Ritual",
-    "6 - Port",
-    "7 - Shopping",
-    "8 - Hallucination",
-    "9 - Coach",
-    "The Piper"
-  ],
-  "/Nine Worlds/Finished/The Piper/Scenes from the Sidelines": [
-    "1 - Vinyë"
-  ],
-  "/Nine Worlds/Finished/Twenty-Third Sonnet": [
-    "1",
-    "2",
-    "Twenty-Third Sonnet"
-  ],
-  "/Nine Worlds/Grows jus like the mountains": [
-    "1",
-    "10",
-    "11",
-    "12 - The Emperor",
-    "13",
-    "14 - The Emperor",
-    "15",
-    "16 - The Emperor",
-    "17",
-    "18",
-    "19",
-    "2",
-    "20",
-    "21 - The Courtroom",
-    "22 - The Calm before the Storm",
-    "23 - Silverheart",
-    "24 - The Fall",
-    "3",
-    "4",
-    "5 - The Emperor",
-    "6",
-    "7 - The Emperor",
-    "8",
-    "9 - Letters"
-  ],
-  "/Nine Worlds/October 2026": [
-    "Kinktober",
-    "Not a sleepover"
-  ],
-  "/Nine Worlds/October 2026/Kinktober": [
-    "01 - Bratting",
-    "02 - Orgy",
-    "03 - Burns",
-    "04 - Body Writing",
-    "05 - Imposter",
-    "07 - Aphrodisiacs",
-    "12 - Betrayal - Findom"
+    "20"
   ],
   "/Nine Worlds/Petition the Same Moon": [
     "1 Petition the Same Moon",
@@ -320,15 +291,16 @@
     "3"
   ],
   "/Nine Worlds/Statutory Declaration": [
-    "1 - His Radiancy",
-    "2 - Melissa",
-    "3 - A Very Awkward Tea",
-    "4 - Contract",
-    "5 - A Wedding Has Occurred",
-    "6 - Mage Search",
-    "7 - Zama & Tana",
-    "8 - Arrival",
-    "9 - Language Lessons and A Phone"
+    "00 - Statutory Declaration",
+    "01 - His Radiancy",
+    "02 - Melissa",
+    "03 - A Very Awkward Tea",
+    "04 - Contract",
+    "05 - A Wedding Has Occurred",
+    "06 - Mage Search",
+    "07 - Zama & Tana",
+    "08 - Arrival",
+    "09 - Language Lessons and A Phone"
   ],
   "/Nine Worlds/The Palace of Lamps": [
     "1",
@@ -336,10 +308,56 @@
     "3",
     "4"
   ],
+  "/Nine Worlds/Grows just like the mountains": [
+    "00 - Grows just like the mountains",
+    "01",
+    "02",
+    "03",
+    "04",
+    "05 - The Emperor",
+    "06",
+    "07 - The Emperor",
+    "08",
+    "09 - Letters",
+    "10",
+    "11",
+    "12 - The Emperor",
+    "13",
+    "14 - The Emperor",
+    "15",
+    "16 - The Emperor",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21 - The Courtroom",
+    "22 - The Calm before the Storm",
+    "23 - Silverheart",
+    "24 - The Fall"
+  ],
+  "/Nine Worlds/To Be Elevated": [
+    "0 - To Be Elevated",
+    "Part 1 - Fitzroy",
+    "Part 2 - Marwn",
+    "Part 3 - Emperor"
+  ],
+  "/Nine Worlds/To Be Elevated/Part 1 - Fitzroy": [
+    "Day 1 & 2 - Tower",
+    "Day 3 - Prison"
+  ],
+  "/Nine Worlds/To Be Elevated/Part 2 - Marwn": [
+    "Day 1 - Capture",
+    "Day 2 - Zunidh",
+    "Day 3 - Scour"
+  ],
+  "/Nine Worlds/To Be Elevated/Part 3 - Emperor": [
+    "Day 1 - Emperor",
+    "Day 2 - Jailers"
+  ],
   "/Tamora Pierce": [
+    "Tamora Pierce",
     "A Real Squire",
-    "Queen's Council",
-    "Tamora Pierce"
+    "Queen's Council"
   ],
   "/Original Fiction": [
     "Finished"
@@ -352,17 +370,17 @@
     "A Good Girl"
   ],
   "/Original Fiction/Finished/Courtship/Chapters": [
-    "1",
     "10",
     "11",
     "12",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "7",
-    "8",
-    "9"
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09"
   ]
 }
