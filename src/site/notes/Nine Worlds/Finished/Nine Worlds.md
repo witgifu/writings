@@ -49,7 +49,7 @@ Songs
 
 ## Longer Works
 
-[[Nine Worlds/Finished/A Teacher in the Desert/0 - A Teacher in the Desert\|0 - A Teacher in the Desert]]
+[[Nine Worlds/Finished/A Teacher in the Desert/A Teacher in the Desert\|A Teacher in the Desert]]
 8k
 Aioru, Kip
 
@@ -69,7 +69,7 @@ The Retirement House
 [[Nine Worlds/Finished/No is the hardest word/No is the hardest word\|No is the hardest word]]
 10k
 
-[[Nine Worlds/Finished/No one ever knows (asks) - Finished/No one ever knows (asks)\|No one ever knows (asks)]]
+[[No one ever knows (asks)\|No one ever knows (asks)]]
 13k
 
 [[Nine Worlds/Finished/Precipitate/Precipitate\|Precipitate]]
